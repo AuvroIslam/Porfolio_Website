@@ -25,7 +25,7 @@ function ProjectContainer( { project } ) {
         <h2>{project.title}</h2>
         {project.video && (
           <a href={project.video} target="_blank" rel="noreferrer" style={{ textDecoration: 'none' }}>
-            <Pill content="Promotional Video" />
+            <Pill content="📹 Promo Video" />
           </a>
         )}
       </div>
