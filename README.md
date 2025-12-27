@@ -153,5 +153,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Built with ❤️ by Oitijya Islam Auvro**  
+**Built  by Oitijya Islam Auvro**  
 *Computer Science & Engineering Student | KUET*
