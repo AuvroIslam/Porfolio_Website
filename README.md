@@ -6,7 +6,7 @@ My personal portfolio website showcasing my projects, skills, and experience as 
 
 ## 🌐 Live Demo
 
-Visit my portfolio: [Live Link](https://your-vercel-link.vercel.app) <!-- Update this after deployment -->
+Visit my portfolio: [https://porfolio-website-alpha-six.vercel.app](https://porfolio-website-alpha-six.vercel.app)
 
 ## 👨‍💻 About Me
 
