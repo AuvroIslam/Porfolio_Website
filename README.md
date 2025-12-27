@@ -2,7 +2,7 @@
 
 My personal portfolio website showcasing my projects, skills, and experience as a Computer Science and Engineering student at KUET.
 
-![Portfolio Preview](./src/Assets/thumbnail.jpeg)
+![Portfolio Preview](./src/Assets/preview.png)
 
 ## 🌐 Live Demo
 
