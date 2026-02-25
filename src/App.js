@@ -8,6 +8,7 @@ import Projects from './Components/Projects/Projects';
 import About from './Components/About/About';
 import Experience from './Components/Experience/Experience';
 import Contact from './Components/Contact/Contact';
+import Achievements from './Components/Achievements/Achievements';
 import Footer from './Components/Footer/Footer';
 import './App.css';
 import './Global.css';
@@ -52,6 +53,14 @@ function App(card) {
   const projectsProps = {
     projects: [
       {
+        title: "Bloodshot",
+        description: "A fast-paced action game where every bullet costs health. Play as a goblin and fight for your survival against waves of human soldiers.",
+        technologies: ["Unity", "C#", "Game Development"],
+        github: "https://github.com/AuvroIslam/BloodShot",
+        live: "https://auvro-islam.itch.io/bloodshot",
+        video: "https://youtu.be/bQRioChJImM?si=CB3LfQxl1ddhc8Q5"
+      },
+      {
         title: "Mio",
         description: "Created a React Native and Expo application that connects users based on their favorite TV shows and movies. Facilitates connections among entertainment enthusiasts and helps them discover like-minded individuals.",
         technologies: ["React Native", "Expo", "TypeScript"],
@@ -83,6 +92,18 @@ function App(card) {
       }
     ]
   };
+  const achievementsProps = {
+    achievements: [
+      {
+        title: "2nd Runners-Up",
+        event: "BUET CSE Fest 2026 Hackathon"
+      },
+      {
+        title: "Champion",
+        event: "KUET FirstByte Datathon 2025"
+      }
+    ]
+  };
 
   return (
       <div className={darkMode ? 'dark-mode' : 'light-mode'}>
@@ -93,6 +114,7 @@ function App(card) {
         <Hero {...heroProps} />
         <Skills {...skillsProps} />
         <Projects {...projectsProps} />
+        <Achievements {...achievementsProps} />
         <About />
         <Experience />
         <Contact />

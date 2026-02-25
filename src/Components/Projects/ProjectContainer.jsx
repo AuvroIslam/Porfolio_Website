@@ -6,13 +6,15 @@ import mioImage from './mio_logo.jpg'
 import wasteImage from './waste_recognition.jpg'
 import olympicImage from './olympic_gdp_chart.png'
 import knot3Image from './3knot3_Banner.png'
+import bloodshotImage from './BloodShot.png'
 
 function ProjectContainer( { project } ) {
   const imageMap = {
     'Mio': mioImage,
     'Waste Recognition Model': wasteImage,
     'GDP vs. Olympic Performance': olympicImage,
-    '3Knot3': knot3Image
+    '3Knot3': knot3Image,
+    'Bloodshot': bloodshotImage
   };
 
   return (

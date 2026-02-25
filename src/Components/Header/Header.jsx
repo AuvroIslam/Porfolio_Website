@@ -32,6 +32,7 @@ function Header({ name = "John Doe" }) {
         <Link onClick={handleLinkClick} to="skills" spy={true} smooth={true} duration={500}><Pill content="Skills" /></Link>
         <Link onClick={handleLinkClick} to="projects" spy={true} smooth={true} duration={500}><Pill content="Projects" /></Link>
         <Link onClick={handleLinkClick} to="experience" spy={true} smooth={true} duration={500}><Pill content="Experience" /></Link>
+        <Link onClick={handleLinkClick} to="achievements" spy={true} smooth={true} duration={500}><Pill content="Achievements" /></Link>
         <Link onClick={handleLinkClick} to="contact" spy={true} smooth={true} duration={500}><Pill content="Contact" /></Link>
       </div>
     </div>
