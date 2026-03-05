@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OA favicon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="14" fill="url(#bg)" />
+  <path d="M32 10a22 22 0 1 0 0 44a22 22 0 0 0 0-44Zm0 8a14 14 0 1 1 0 28a14 14 0 0 1 0-28Z" fill="url(#accent)" />
+  <path d="M39.8 45L33.4 20h-2.8l-6.4 25h3.8l1.2-5h6.2l1.2 5h3.8Zm-10-8 2.2-9.6 2.2 9.6h-4.4Z" fill="#ffffff" />
+</svg>
