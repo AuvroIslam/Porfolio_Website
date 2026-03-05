@@ -8,6 +8,7 @@ import olympicImage from './olympic_gdp_chart.png'
 import knot3Image from './3knot3_Banner.png'
 import bloodshotImage from './BloodShot.png'
 import shopcircuitImage from './shopcircuit.png'
+import frostbyteImage from './FrostByte.png'
 
 function ProjectContainer( { project } ) {
   const imageMap = {
@@ -16,7 +17,8 @@ function ProjectContainer( { project } ) {
     'GDP vs. Olympic Performance': olympicImage,
     '3Knot3': knot3Image,
     'Bloodshot': bloodshotImage,
-    'Shop Circuit': shopcircuitImage
+    'Shop Circuit': shopcircuitImage,
+    'FrostByte Logistics Platform': frostbyteImage
   };
 
   return (

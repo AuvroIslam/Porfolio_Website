@@ -75,9 +75,9 @@ function App(card) {
         video: "https://youtu.be/bQRioChJImM?si=CB3LfQxl1ddhc8Q5"
       },
       {
-        title: "FirstByte Logistics Platform",
+        title: "FrostByte Logistics Platform",
         description: "Designed and built a cloud-native logistics platform using a microservices architecture and DevOps workflows. Implemented service health monitoring, observability-focused dashboards, and reliable deployment practices to support scalability and operational stability.",
-        technologies: ["Microservices", "DevOps", "Cloud-Native", "Monitoring", "Observability", "CI/CD"],
+        technologies: ["Microservices", "DevOps", "Cloud-Native", "CI/CD"],
         github: "https://github.com/Nafiz001/logarithm-warehouse",
         live: "http://40.81.240.99/"
       },

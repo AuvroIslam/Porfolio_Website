@@ -35,9 +35,9 @@ Deep learning model for waste classification using Fast.ai and Hugging Face, dep
 - **Tech Stack:** Python, Fast.ai, Hugging Face, HTML, CSS, JavaScript
 - **Links:** [GitHub](https://github.com/AuvroIslam/wasteRecognizer) | [Live Demo](https://auvroislam.github.io/wasteRecognizer/)
 
-### 4. **FirstByte Logistics Platform**
+### 4. **FrostByte Logistics Platform**
 Designed and built a cloud-native logistics platform using a microservices architecture and DevOps workflows. Implemented service health monitoring, observability-focused dashboards, and reliable deployment practices to support scalability and operational stability.
-- **Tech Stack:** Microservices, DevOps, Cloud-Native, Monitoring, Observability, CI/CD
+- **Tech Stack:** Microservices, DevOps, Cloud-Native, CI/CD
 - **Links:** [GitHub](https://github.com/Nafiz001/logarithm-warehouse) | [Live Demo](http://40.81.240.99/)
 
 ### 5. **GDP vs. Olympic Performance**
