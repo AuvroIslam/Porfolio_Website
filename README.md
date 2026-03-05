@@ -25,17 +25,22 @@ React Native and Expo application that connects users based on their favorite TV
 - **Tech Stack:** React Native, Expo, TypeScript
 - **Links:** [GitHub](https://github.com/AuvroIslam/Mio-typeScript-) | [Google Play](https://play.google.com/store/apps/details?id=com.mioapp.social&hl=en) | [Promo Video](https://www.facebook.com/watch/?v=1234744761338742)
 
-### 2. **Waste Recognition Model**
+### 2. **Shop Circuit**
+An ecommerce website with admin panel and SSLCommerz integrated.
+- **Tech Stack:** Frontend: React, React Router, Tailwind CSS, Firebase SDK | Backend: Node.js, Express
+- **Links:** [Live Demo](https://www.shopcircuit.me/)
+
+### 3. **Waste Recognition Model**
 Deep learning model for waste classification using Fast.ai and Hugging Face, deployed with a web interface.
 - **Tech Stack:** Python, Fast.ai, Hugging Face, HTML, CSS, JavaScript
 - **Links:** [GitHub](https://github.com/AuvroIslam/wasteRecognizer) | [Live Demo](https://auvroislam.github.io/wasteRecognizer/)
 
-### 3. **GDP vs. Olympic Performance**
+### 4. **GDP vs. Olympic Performance**
 Data visualization project exploring the correlation between GDP and Olympic achievements using Tableau Dashboards and React.
 - **Tech Stack:** React, Tableau, Data Visualization
 - **Links:** [GitHub](https://github.com/AuvroIslam/Olympic_vs_Gdp) | [Live Demo](https://olympic-vs-gdp-website.vercel.app)
 
-### 4. **3Knot3**
+### 5. **3Knot3**
 Top-down 3D action game inspired by the 7 Bir Sreshtho (heroes) from the 1971 Bangladesh Liberation War.
 - **Tech Stack:** Unity, C#, Game Development
 - **Links:** [GitHub](https://github.com/Learnathon-By-Geeky-Solutions/studio71) | [Play Online](https://studio-71.itch.io/echoes-of-71) | [Promo Video](https://www.facebook.com/share/v/1CdAbhr8m9/)

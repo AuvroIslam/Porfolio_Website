@@ -53,20 +53,26 @@ function App(card) {
   const projectsProps = {
     projects: [
       {
-        title: "Bloodshot",
-        description: "A fast-paced action game where every bullet costs health. Play as a goblin and fight for your survival against waves of human soldiers.",
-        technologies: ["Unity", "C#", "Game Development"],
-        github: "https://github.com/AuvroIslam/BloodShot",
-        live: "https://auvro-islam.itch.io/bloodshot",
-        video: "https://youtu.be/bQRioChJImM?si=CB3LfQxl1ddhc8Q5"
-      },
-      {
         title: "Mio",
         description: "Created a React Native and Expo application that connects users based on their favorite TV shows and movies. Facilitates connections among entertainment enthusiasts and helps them discover like-minded individuals.",
         technologies: ["React Native", "Expo", "TypeScript"],
         github: "https://github.com/AuvroIslam/Mio-typeScript-",
         live: "https://play.google.com/store/apps/details?id=com.mioapp.social&hl=en",
         video: "https://www.facebook.com/watch/?v=1234744761338742"
+      },
+      {
+        title: "Shop Circuit",
+        description: "An ecommerce website with admin panel and SSLCommerz integrated.",
+        technologies: ["React", "React Router", "Tailwind CSS", "Firebase SDK", "Node.js", "Express"],
+        live: "https://www.shopcircuit.me/"
+      },
+      {
+        title: "Bloodshot",
+        description: "A fast-paced action game where every bullet costs health. Play as a goblin and fight for your survival against waves of human soldiers.",
+        technologies: ["Unity", "C#", "Game Development"],
+        github: "https://github.com/AuvroIslam/BloodShot",
+        live: "https://auvro-islam.itch.io/bloodshot",
+        video: "https://youtu.be/bQRioChJImM?si=CB3LfQxl1ddhc8Q5"
       },
       {
         title: "Waste Recognition Model",
