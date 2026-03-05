@@ -75,6 +75,11 @@ function App(card) {
         video: "https://youtu.be/bQRioChJImM?si=CB3LfQxl1ddhc8Q5"
       },
       {
+        title: "FirstByte Logistics Platform",
+        description: "Designed and built a cloud-native logistics platform using a microservices architecture and DevOps workflows. Implemented service health monitoring, observability-focused dashboards, and reliable deployment practices to support scalability and operational stability.",
+        technologies: ["Microservices", "DevOps", "Cloud-Native", "Monitoring", "Observability", "CI/CD"]
+      },
+      {
         title: "Waste Recognition Model",
         description: "Developed a deep learning model for waste classification using Fast.ai and Hugging Face. Deployed it on Hugging Face with a web application built using HTML, CSS, and JavaScript.",
         technologies: ["Python", "Fast.ai", "Hugging Face", "HTML", "CSS", "JavaScript"],

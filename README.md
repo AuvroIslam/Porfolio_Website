@@ -35,12 +35,16 @@ Deep learning model for waste classification using Fast.ai and Hugging Face, dep
 - **Tech Stack:** Python, Fast.ai, Hugging Face, HTML, CSS, JavaScript
 - **Links:** [GitHub](https://github.com/AuvroIslam/wasteRecognizer) | [Live Demo](https://auvroislam.github.io/wasteRecognizer/)
 
-### 4. **GDP vs. Olympic Performance**
+### 4. **FirstByte Logistics Platform**
+Designed and built a cloud-native logistics platform using a microservices architecture and DevOps workflows. Implemented service health monitoring, observability-focused dashboards, and reliable deployment practices to support scalability and operational stability.
+- **Tech Stack:** Microservices, DevOps, Cloud-Native, Monitoring, Observability, CI/CD
+
+### 5. **GDP vs. Olympic Performance**
 Data visualization project exploring the correlation between GDP and Olympic achievements using Tableau Dashboards and React.
 - **Tech Stack:** React, Tableau, Data Visualization
 - **Links:** [GitHub](https://github.com/AuvroIslam/Olympic_vs_Gdp) | [Live Demo](https://olympic-vs-gdp-website.vercel.app)
 
-### 5. **3Knot3**
+### 6. **3Knot3**
 Top-down 3D action game inspired by the 7 Bir Sreshtho (heroes) from the 1971 Bangladesh Liberation War.
 - **Tech Stack:** Unity, C#, Game Development
 - **Links:** [GitHub](https://github.com/Learnathon-By-Geeky-Solutions/studio71) | [Play Online](https://studio-71.itch.io/echoes-of-71) | [Promo Video](https://www.facebook.com/share/v/1CdAbhr8m9/)
