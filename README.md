@@ -38,6 +38,7 @@ Deep learning model for waste classification using Fast.ai and Hugging Face, dep
 ### 4. **FirstByte Logistics Platform**
 Designed and built a cloud-native logistics platform using a microservices architecture and DevOps workflows. Implemented service health monitoring, observability-focused dashboards, and reliable deployment practices to support scalability and operational stability.
 - **Tech Stack:** Microservices, DevOps, Cloud-Native, Monitoring, Observability, CI/CD
+- **Links:** [GitHub](https://github.com/Nafiz001/logarithm-warehouse) | [Live Demo](http://40.81.240.99/)
 
 ### 5. **GDP vs. Olympic Performance**
 Data visualization project exploring the correlation between GDP and Olympic achievements using Tableau Dashboards and React.
