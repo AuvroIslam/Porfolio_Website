@@ -8,7 +8,7 @@ import bloodshotImage from './BloodShot.png'
 import frostbyteImage from './FrostByte.png'
 import nongorImage from './Nongor.png'
 import fitAlarmlyImage from './FitAlarmly.png'
-import deenQuestImage from './DEENqUEST.png'
+import deenQuestImage from './DeenQuest.png'
 
 function ProjectContainer( { project } ) {
   const imageMap = {

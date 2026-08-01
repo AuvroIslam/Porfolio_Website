@@ -62,8 +62,8 @@ function App(card) {
       },
       {
         title: "Nongor",
-        description: "Offline AI flood companion for Bangladesh. Signed phone-to-phone SOS, flood-avoiding shelter routing, first aid, and emergency translation for six languages—powered entirely by on-device Gemma 4. No internet, no server, no account required.",
-        technologies: ["Kotlin", "Jetpack Compose", "Gemma 4", "Google Nearby Connections", "OpenStreetMap"],
+        description: "Offline AI flood companion for Bangladesh. Phone-to-phone SOS, shelter routing, first aid, and emergency translation for six languages—powered by on-device Gemma 4. No internet required.",
+        technologies: ["Kotlin", "Gemma 4", "Offline AI"],
         github: "https://github.com/AuvroIslam/Nongor",
         live: "https://drive.google.com/file/d/1af8fL-YRcx70QRs9BCzoBBnNbIbghsjY/view?usp=drive_link",
         video: "https://youtu.be/9GsZ_ATN0ZQ"
