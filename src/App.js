@@ -54,17 +54,33 @@ function App(card) {
     projects: [
       {
         title: "Mio",
-        description: "Created a React Native and Expo application that connects users based on their favorite TV shows and movies. Facilitates connections among entertainment enthusiasts and helps them discover like-minded individuals.",
+        description: "Created a React Native and Expo application that connects users based on their favorite Anime and K-dramas. Facilitates connections among entertainment enthusiasts and helps them discover like-minded individuals. Achieved 10,000+ downloads on Play Store.",
         technologies: ["React Native", "Expo", "TypeScript"],
         github: "https://github.com/AuvroIslam/Mio-typeScript-",
         live: "https://play.google.com/store/apps/details?id=com.mioapp.social&hl=en",
         video: "https://www.facebook.com/watch/?v=1234744761338742"
       },
       {
-        title: "Shop Circuit",
-        description: "An ecommerce website with admin panel and SSLCommerz integrated.",
-        technologies: ["React", "React Router", "Tailwind CSS", "Firebase SDK", "Node.js", "Express"],
-        live: "https://www.shopcircuit.me/"
+        title: "Nongor",
+        description: "Offline AI flood companion for Bangladesh. Signed phone-to-phone SOS, flood-avoiding shelter routing, first aid, and emergency translation for six languages—powered entirely by on-device Gemma 4. No internet, no server, no account required.",
+        technologies: ["Kotlin", "Jetpack Compose", "Gemma 4", "Google Nearby Connections", "OpenStreetMap"],
+        github: "https://github.com/AuvroIslam/Nongor",
+        live: "https://drive.google.com/file/d/1af8fL-YRcx70QRs9BCzoBBnNbIbghsjY/view?usp=drive_link",
+        video: "https://youtu.be/9GsZ_ATN0ZQ"
+      },
+      {
+        title: "FitAlarmly",
+        description: "An alarm app you dismiss by doing exercise or solving math. The camera counts your reps live using Google ML Kit pose detection. Built with React Native and a custom Kotlin alarm module.",
+        technologies: ["React Native", "TypeScript", "Kotlin", "Google ML Kit"],
+        github: "https://github.com/AuvroIslam/FitAlarmly",
+        live: "https://drive.google.com/file/d/1-Xp5B-PM4ITskeFS9VFqWi9tjU4uEgg9/view?usp=sharing"
+      },
+      {
+        title: "DeenQuest",
+        description: "A Duolingo-style mobile and web app for building a daily Quran habit. Features guided recitation lessons, streak recovery, mood-based ayahs, and full Quran.com sync via OAuth2.",
+        technologies: ["React Native", "Expo", "TypeScript", "Next.js", "Firebase"],
+        github: "https://github.com/AuvroIslam/DeenQuestMobileApp",
+        live: "https://quran-hackathon-omega.vercel.app/"
       },
       {
         title: "Bloodshot",
@@ -82,20 +98,6 @@ function App(card) {
         live: "http://40.81.240.99/"
       },
       {
-        title: "Waste Recognition Model",
-        description: "Developed a deep learning model for waste classification using Fast.ai and Hugging Face. Deployed it on Hugging Face with a web application built using HTML, CSS, and JavaScript.",
-        technologies: ["Python", "Fast.ai", "Hugging Face", "HTML", "CSS", "JavaScript"],
-        github: "https://github.com/AuvroIslam/wasteRecognizer",
-        live: "https://auvroislam.github.io/wasteRecognizer/"
-      },
-      {
-        title: "GDP vs. Olympic Performance",
-        description: "Explored the correlation between GDP and Olympic achievements utilizing Tableau Dashboards. Created and launched an interactive React website to showcase the findings.",
-        technologies: ["React", "Tableau", "Data Visualization"],
-        github: "https://github.com/AuvroIslam/Olympic_vs_Gdp",
-        live: "https://olympic-vs-gdp-website.vercel.app"
-      },
-      {
         title: "3Knot3",
         description: "Developed a top-down 3D action game inspired by the 7 Bir Sreshtho (heroes) from the 1971 Bangladesh Liberation War. Designed and built in Unity with C#, featuring unique abilities and levels reflecting each hero's legacy.",
         technologies: ["Unity", "C#", "Game Development"],
@@ -108,12 +110,20 @@ function App(card) {
   const achievementsProps = {
     achievements: [
       {
-        title: "2nd Runners-Up",
-        event: "BUET CSE Fest 2026 Hackathon"
+        title: "Champion",
+        event: "Build with Gemma Hybrid Hackathon 2026"
       },
       {
         title: "Champion",
-        event: "KUET FirstByte Datathon 2025"
+        event: "KUET FirstByte Datathon 2026"
+      },
+      {
+        title: "2nd Runners-Up",
+        event: "Microservices & DevOps Hackathon - BUET CSE Fest 2026"
+      },
+      {
+        title: "2nd Runners-Up",
+        event: "Techathon Nationals & Rover Summit Hackathon - IUT Robotics Society 2025"
       }
     ]
   };

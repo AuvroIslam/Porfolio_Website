@@ -5,6 +5,7 @@
     height: 600px;
     border: var(--border);
     overflow: hidden;
+    font-family: 'Work Sans', sans-serif;
 }
 
 .project-image {
