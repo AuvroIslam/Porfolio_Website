@@ -92,7 +92,7 @@ function App(card) {
       },
       {
         title: "FrostByte Logistics Platform",
-        description: "Designed and built a cloud-native logistics platform using a microservices architecture and DevOps workflows. Implemented service health monitoring, observability-focused dashboards, and reliable deployment practices to support scalability and operational stability.",
+        description: "Cloud-native logistics platform built with microservices and DevOps workflows. Features service health monitoring, observability dashboards, and CI/CD pipelines.",
         technologies: ["Microservices", "DevOps", "Cloud-Native", "CI/CD"],
         github: "https://github.com/Nafiz001/logarithm-warehouse",
         live: "http://40.81.240.99/"

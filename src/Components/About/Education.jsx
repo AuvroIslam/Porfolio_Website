@@ -11,7 +11,7 @@ function Education() {
             {
             date: "Jan 2023 - Present",
             title: "Bachelor of Science in Computer Science and Engineering",
-            description: "Khulna University of Engineering & Technology (KUET) - 3rd Year Student - Current CGPA: 3.63"
+            description: "Khulna University of Engineering & Technology (KUET) - 4th Year Student - Current CGPA: 3.63"
             }
         ]} />
     </div>
