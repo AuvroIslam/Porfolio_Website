@@ -32,12 +32,12 @@ function App(card) {
   const heroProps = {
     name: "Oitijya Islam Auvro",
     role: "Computer Science & Engineering Student",
-    description: "A third-year Computer Science and Engineering student at KUET with a strong passion for web development, data science, and Unity game development. I enjoy creating dynamic, interactive websites and leveraging data-driven insights to solve real-world problems.",
+    description: "I am a fourth-year Computer Science and Engineering student at KUET, passionate about mobile app development, AI, and DevOps. I love building impactful mobile applications, integrating intelligent AI features, and creating scalable, automated deployment workflows using modern cloud technologies.",
     email: "oitijya2002@gmail.com",
     mobile: "01575094617",
     linkedin: "https://www.linkedin.com/in/oitijya-islam-auvro-a252a5325/",
     github: "https://github.com/AuvroIslam",
-    resume: "/Oitijya_Islam_Auvro_CV.pdf"
+    resume: "/Oitijya Islam Auvro_CV.pdf"
   };
 
   const skillsProps = {
