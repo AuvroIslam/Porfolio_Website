@@ -118,6 +118,10 @@ function App(card) {
         event: "KUET FirstByte Datathon 2026"
       },
       {
+        title: "Champion",
+        event: "July Hackathon 2026 (Crisis Track) - JRA Foundation"
+      },
+      {
         title: "2nd Runners-Up",
         event: "Microservices & DevOps Hackathon - BUET CSE Fest 2026"
       },
