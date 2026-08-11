@@ -111,7 +111,7 @@ function App(card) {
     achievements: [
       {
         title: "Champion",
-        event: "Build with Gemma Hybrid Hackathon 2026"
+        event: "Build with Gemma Hackathon 2026"
       },
       {
         title: "Champion",
