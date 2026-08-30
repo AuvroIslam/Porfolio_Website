@@ -167,7 +167,7 @@ function App(card) {
     achievements: [
       {
         title: "Winner - Conversational AI Segment",
-        event: "ML Empowerment Build Challenge 2.0 (International Hackathon - 1,000+ participants)"
+        event: "ML Empowerment Build Challenge 2.0 (International)"
       },
       {
         title: "Champion",
