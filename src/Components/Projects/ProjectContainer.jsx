@@ -53,6 +53,7 @@ function ProjectContainer( { project } ) {
       </div>
       <div className="project-links">
         {project.github && <a className="p-link" href={project.github} target="_blank" rel="noreferrer">GitHub</a>}
+        {project.apk && <a className="p-link" href={project.apk} target="_blank" rel="noreferrer">APK</a>}
         {project.live && <a className="p-link" href={project.live} target="_blank" rel="noreferrer">Live Demo</a>}
         {project.link && !project.github && !project.live && <a className="p-link" href={project.link} target="_blank" rel="noreferrer">View Project</a>}
       </div>

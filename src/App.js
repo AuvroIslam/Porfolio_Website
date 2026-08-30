@@ -59,6 +59,7 @@ function App(card) {
         description: "A Duolingo-style mobile and web app for building a daily Quran habit. Features guided recitation lessons, streak recovery, mood-based ayahs, and full Quran.com sync via OAuth2.",
         technologies: ["React Native", "Expo", "TypeScript", "Next.js", "Firebase"],
         github: "https://github.com/AuvroIslam/DeenQuest",
+        apk: "https://drive.google.com/file/d/1LIcEjyoXZfXS4v_8woIZR5KfaGSR1Nkt/view?usp=sharing",
         live: "https://quran-hackathon-omega.vercel.app/"
       },
       {
@@ -139,8 +140,7 @@ function App(card) {
         title: "FrostByte Logistics Platform",
         description: "Cloud-native logistics platform built with microservices and DevOps workflows. Features service health monitoring, observability dashboards, and CI/CD pipelines.",
         technologies: ["Microservices", "DevOps", "Cloud-Native", "CI/CD"],
-        github: "https://github.com/Nafiz001/logarithm-warehouse",
-        live: "http://40.81.240.99/"
+        github: "https://github.com/Nafiz001/logarithm-warehouse"
       },
       // Games
       {
