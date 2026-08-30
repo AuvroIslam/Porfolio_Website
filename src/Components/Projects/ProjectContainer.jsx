@@ -9,6 +9,11 @@ import frostbyteImage from './FrostByte.png'
 import nongorImage from './Nongor.png'
 import fitAlarmlyImage from './fitAlarmly (2).png'
 import deenQuestImage from './DeenQuest.png'
+import balanceLoopImage from './BalanceLoop.png'
+import toDoWidgetsImage from './ToDoWidgets.png'
+import wasteRecognizerImage from './waste_recognition.jpg'
+import olympicGdpImage from './olympic_gdp_chart.png'
+import asterImage from './aster.png'
 
 function ProjectContainer( { project } ) {
   const imageMap = {
@@ -18,7 +23,12 @@ function ProjectContainer( { project } ) {
     'FrostByte Logistics Platform': frostbyteImage,
     'Nongor': nongorImage,
     'FitAlarmly': fitAlarmlyImage,
-    'DeenQuest': deenQuestImage
+    'DeenQuest': deenQuestImage,
+    'BalanceLoop': balanceLoopImage,
+    'ToDoWidgets': toDoWidgetsImage,
+    'Waste Recognizer': wasteRecognizerImage,
+    'Olympic vs GDP': olympicGdpImage,
+    'Aster': asterImage
   };
 
   return (
