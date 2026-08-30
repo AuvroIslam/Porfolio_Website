@@ -20,9 +20,6 @@ function Hero({
         <div className="avatar">
           <img src={Avatar} alt="Avatar" />
         </div>
-        <a href={resume} download="Oitijya_Islam_Auvro_CV.pdf">
-        <Pill content="View Resume" color="invert" />
-        </a>
       </div>
 
       <div className="hero-content">
