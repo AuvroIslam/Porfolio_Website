@@ -37,7 +37,7 @@ function App(card) {
     mobile: "01575094617",
     linkedin: "https://www.linkedin.com/in/oitijya-islam-auvro-a252a5325/",
     github: "https://github.com/AuvroIslam",
-    resume: "/Oitijya Islam Auvro_CV.pdf"
+    resume: "/OitijyaCv.pdf"
   };
 
   const skillsProps = {
@@ -59,8 +59,7 @@ function App(card) {
         description: "A Duolingo-style mobile and web app for building a daily Quran habit. Features guided recitation lessons, streak recovery, mood-based ayahs, and full Quran.com sync via OAuth2.",
         technologies: ["React Native", "Expo", "TypeScript", "Next.js", "Firebase"],
         github: "https://github.com/AuvroIslam/DeenQuest",
-        apk: "https://drive.google.com/file/d/1LIcEjyoXZfXS4v_8woIZR5KfaGSR1Nkt/view?usp=sharing",
-        live: "https://quran-hackathon-omega.vercel.app/"
+        live: "https://drive.google.com/file/d/1LIcEjyoXZfXS4v_8woIZR5KfaGSR1Nkt/view?usp=sharing"
       },
       {
         category: "Mobile Apps",
@@ -93,14 +92,16 @@ function App(card) {
         title: "BalanceLoop",
         description: "A comprehensive financial wellness app designed to help users manage budgets, track expenses, and build healthy financial habits with intuitive tracking and insightful analytics.",
         technologies: ["React Native", "Expo", "TypeScript", "Firebase"],
-        github: "https://github.com/AuvroIslam/BalanceLoop"
+        github: "https://github.com/AuvroIslam/BalanceLoop",
+        live: "https://drive.google.com/file/d/184Y3LJa_1tMa0vncC13K2szM3UJTlQw8/view?usp=drive_link"
       },
       {
         category: "Mobile Apps",
         title: "ToDoWidgets",
         description: "A powerful to-do list application with widget support for quick task management directly from your home screen. Features priority management, categories, and seamless synchronization.",
         technologies: ["React Native", "Expo", "TypeScript"],
-        github: "https://github.com/AuvroIslam/ToDoWidgets"
+        github: "https://github.com/AuvroIslam/ToDoWidgets",
+        live: "https://drive.google.com/file/d/1E-IghQB3M-tJGF-fLBMyRovRHRBxxQQ1/view?usp=sharing"
       },
       // AI/ML
       {
@@ -109,6 +110,7 @@ function App(card) {
         description: "Aster describes what a lecture video shows but never says, so blind and low-vision students can follow it. Uses AI to generate descriptive audio for visual content in educational videos.",
         technologies: ["AI", "Computer Vision", "Audio Generation"],
         github: "https://github.com/AuvroIslam/Aster",
+        live: "https://aster-coral.vercel.app",
         video: "https://youtu.be/ANY_swvypIY?si=JPqXLE1sVyfDoKM"
       },
       {
@@ -125,14 +127,16 @@ function App(card) {
         title: "Waste Recognizer",
         description: "An AI-powered waste classification system that uses computer vision to identify and categorize different types of waste for efficient recycling and environmental management.",
         technologies: ["Machine Learning", "Computer Vision", "TensorFlow"],
-        github: "https://github.com/AuvroIslam/wasteRecognizer"
+        github: "https://github.com/AuvroIslam/wasteRecognizer",
+        live: "https://auvroislam.github.io/wasteRecognizer/"
       },
       {
         category: "AI/ML",
         title: "Olympic vs GDP",
         description: "Data analysis and visualization project exploring the relationship between Olympic games and GDP of host nations. Uncovers economic trends and impacts through comprehensive data analysis.",
         technologies: ["Python", "Pandas", "Matplotlib", "Data Analysis"],
-        github: "https://github.com/AuvroIslam/Olympic_vs_Gdp"
+        github: "https://github.com/AuvroIslam/Olympic_vs_Gdp",
+        live: "https://olympic-vs-gdp-website.vercel.app/"
       },
       // DevOps
       {
@@ -164,11 +168,7 @@ function App(card) {
     ]
   };
   const achievementsProps = {
-    achievements: [
-      {
-        title: "Winner - Conversational AI Segment",
-        event: "ML Empowerment Build Challenge 2.0 (International)"
-      },
+    national: [
       {
         title: "Champion",
         event: "Build with Gemma Hackathon 2026"
@@ -182,12 +182,30 @@ function App(card) {
         event: "July Hackathon 2026 (Crisis Track) - JRA Foundation"
       },
       {
+        title: "Champion",
+        event: "Hypomatrix Hackathon 2026"
+      },
+      {
         title: "2nd Runners-Up",
         event: "Microservices & DevOps Hackathon - BUET CSE Fest 2026"
       },
       {
         title: "2nd Runners-Up",
-        event: "Techathon Nationals & Rover Summit Hackathon - IUT Robotics Society 2025"
+        event: "Techathon Nationals & Rover Summit Hackathon - IUT Robotics Society 2026"
+      }
+    ],
+    international: [
+      {
+        title: "Champion - Conversational AI Segment",
+        event: "ML Empowerment Build Challenge 2.0 (International)"
+      },
+      {
+        title: "Champion - AI/ML Segment",
+        event: "HackSocial 2026"
+      },
+      {
+        title: "2nd Runners-Up",
+        event: "NioHack 2026 - Hosted by NioGraph Inc. (USA), technically supported by American Society for Engineers LLC"
       }
     ]
   };

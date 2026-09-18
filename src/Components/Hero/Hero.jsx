@@ -35,6 +35,7 @@ function Hero({
           <a target="_blank" rel="noreferrer" href={`tel:${mobile}`}><Pill content={mobile} /></a>
           <a target="_blank" rel="noreferrer" href={linkedin}><Pill content="LinkedIn" /></a>
           <a target="_blank" rel="noreferrer" href={github}><Pill content="GitHub" /></a>
+          <a target="_blank" rel="noreferrer" href={resume}><Pill content="Resume" /></a>
         </div>
       </div>
     </div>
