@@ -3,6 +3,23 @@ import '../../Global.css'
 import './Projects.css'
 import ProjectContainer from './ProjectContainer'
 
+const MAX_PER_ROW = 3
+
+function splitIntoBalancedRows(items, maxPerRow = MAX_PER_ROW) {
+  const rowCount = Math.ceil(items.length / maxPerRow)
+  const baseSize = Math.floor(items.length / rowCount)
+  const extra = items.length % rowCount
+
+  const rows = []
+  let index = 0
+  for (let row = 0; row < rowCount; row++) {
+    const size = baseSize + (row < extra ? 1 : 0)
+    rows.push(items.slice(index, index + size))
+    index += size
+  }
+  return rows
+}
+
 function Projects({ projects = [] }) {
   const groupedProjects = projects.reduce((acc, project) => {
     const category = project.category || 'Other'
@@ -22,11 +39,13 @@ function Projects({ projects = [] }) {
       {sortedCategories.map((category) => (
         <div key={category}>
           <h2 className='category-heading'>{category}</h2>
-          <div className="projects-description">
-            {groupedProjects[category].map((project, index) => (
-              <ProjectContainer key={index} project={project} />
-            ))}
-          </div>
+          {splitIntoBalancedRows(groupedProjects[category]).map((row, rowIndex) => (
+            <div className="projects-description" key={rowIndex}>
+              {row.map((project, index) => (
+                <ProjectContainer key={index} project={project} />
+              ))}
+            </div>
+          ))}
         </div>
       ))}
     </div>
