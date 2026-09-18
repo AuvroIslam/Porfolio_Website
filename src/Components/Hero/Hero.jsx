@@ -20,6 +20,9 @@ function Hero({
         <div className="avatar">
           <img src={Avatar} alt="Avatar" />
         </div>
+        <a href={resume} download="Oitijya_Islam_Auvro_CV.pdf">
+        <Pill content="View Resume" color="invert" />
+        </a>
       </div>
 
       <div className="hero-content">
@@ -35,7 +38,6 @@ function Hero({
           <a target="_blank" rel="noreferrer" href={`tel:${mobile}`}><Pill content={mobile} /></a>
           <a target="_blank" rel="noreferrer" href={linkedin}><Pill content="LinkedIn" /></a>
           <a target="_blank" rel="noreferrer" href={github}><Pill content="GitHub" /></a>
-          <a target="_blank" rel="noreferrer" href={resume}><Pill content="Resume" /></a>
         </div>
       </div>
     </div>

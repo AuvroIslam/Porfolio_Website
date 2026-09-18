@@ -171,11 +171,15 @@ function App(card) {
     national: [
       {
         title: "Champion",
-        event: "Build with Gemma Hackathon 2026"
+        event: "Build with Gemma Hybrid Hackathon - Google for Developers"
       },
       {
-        title: "Champion",
-        event: "KUET FirstByte Datathon 2026"
+        title: "2nd Runners-Up",
+        event: "Microservices & DevOps Hackathon - BUET CSE Fest 2026"
+      },
+      {
+        title: "2nd Runners-Up",
+        event: "Techathon Nationals & Rover Summit Hackathon - IUT Robotics Society 2026"
       },
       {
         title: "Champion",
@@ -186,26 +190,22 @@ function App(card) {
         event: "Hypomatrix Hackathon 2026"
       },
       {
-        title: "2nd Runners-Up",
-        event: "Microservices & DevOps Hackathon - BUET CSE Fest 2026"
-      },
-      {
-        title: "2nd Runners-Up",
-        event: "Techathon Nationals & Rover Summit Hackathon - IUT Robotics Society 2026"
+        title: "Champion",
+        event: "KUET FirstByte Datathon 2026"
       }
     ],
     international: [
       {
+        title: "2nd Runners-Up",
+        event: "NioHack 2026"
+      },
+      {
         title: "Champion - Conversational AI Segment",
-        event: "ML Empowerment Build Challenge 2.0 (International)"
+        event: "ML Empowerment Build Challenge 2.0"
       },
       {
         title: "Champion - AI/ML Segment",
         event: "HackSocial 2026"
-      },
-      {
-        title: "2nd Runners-Up",
-        event: "NioHack 2026 - Hosted by NioGraph Inc. (USA), technically supported by American Society for Engineers LLC"
       }
     ]
   };
