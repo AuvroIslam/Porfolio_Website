@@ -197,7 +197,7 @@ function App(card) {
     international: [
       {
         title: "2nd Runners-Up",
-        event: "NioHack 2026"
+        event: "NioHack 2026, NioGraph Inc, American Society For Engineers LLC"
       },
       {
         title: "Champion - Conversational AI Segment",
