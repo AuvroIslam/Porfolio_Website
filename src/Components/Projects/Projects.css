@@ -19,6 +19,10 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: stretch;
+    width: 100%;
+    max-width: 1600px;
+    padding: 0 40px;
     gap: 20px;
     margin-top: 20px;
 }
@@ -34,5 +38,9 @@
             font-size: 1.5rem;
             margin-top: 30px;
             margin-bottom: 15px;
+        }
+
+        .projects-description {
+            padding: 0 20px;
         }
     }

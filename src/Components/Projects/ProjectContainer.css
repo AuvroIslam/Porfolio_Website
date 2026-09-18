@@ -1,7 +1,8 @@
 .project-container {
     display: flex;
     flex-direction: column;
-    width: 350px;
+    flex: 1 1 300px;
+    max-width: 480px;
     height: 600px;
     border: var(--border);
     overflow: hidden;
